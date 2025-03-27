@@ -1,11 +1,11 @@
   #  Name    : Dream Space Design
 
-  #  Link    : https://sddesign.co.in
+  #  Link    : https://dsdesign.co.in
 
-  # License : https://sddesign.co.in/license (or read the LICENSE.txt file)
+  # License : https://dsdesign.co.in/license (or read the LICENSE.txt file)
 
-  # Author  : SDdesign
+  # Author  : DSdesign
 
-  # Website   : https://sddesign.co.in
+  # Website   : https://dsdesign.co.in
 
-  # About SDdesign : SDdesign is a start-up which provides interior designing,architecture,3D rendering.
+  # About SDdesign : DSdesign is a start-up which provides interior designing,architecture,3D rendering.
